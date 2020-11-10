@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoroscopeMVC.Web", "HoroscopeMVC.Web\HoroscopeMVC.Web.csproj", "{8A031380-DE16-4283-A6C9-9C82123DB680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoroscopeMVC.Data", "HoroscopeMVC.Data\HoroscopeMVC.Data.csproj", "{0A2F0C69-D7F3-49B3-9D44-DB1C04A633B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8A031380-DE16-4283-A6C9-9C82123DB680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A031380-DE16-4283-A6C9-9C82123DB680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A031380-DE16-4283-A6C9-9C82123DB680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2F0C69-D7F3-49B3-9D44-DB1C04A633B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2F0C69-D7F3-49B3-9D44-DB1C04A633B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2F0C69-D7F3-49B3-9D44-DB1C04A633B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2F0C69-D7F3-49B3-9D44-DB1C04A633B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
